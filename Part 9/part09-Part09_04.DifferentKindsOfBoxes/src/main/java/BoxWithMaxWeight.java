@@ -11,7 +11,7 @@ public class BoxWithMaxWeight extends Box {
     }
 
     /**
-     * Defines the max weight allowed for that box. ONly adds an item when
+     * Defines the max weight allowed for that box. ONLY adds an item when
      * it won't cause the boxes maximum weight capacity to be exceeded.
      * @param item box
      */
